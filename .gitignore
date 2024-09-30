@@ -1,0 +1,10 @@
+.vs/*
+x64/*
+data/*
+*/.vs/*
+*/x64/*
+*/data/*
+*.gltf
+*.fbx
+*.png
+*.jpg
